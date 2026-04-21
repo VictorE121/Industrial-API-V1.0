@@ -48,7 +48,7 @@ src/
 Clonar repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/industrial-api.git
+git clone https://github.com/VictorE121/Industrial-API-V1.0.git
 cd industrial-api
 ```
 
