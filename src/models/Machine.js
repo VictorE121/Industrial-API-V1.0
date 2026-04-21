@@ -7,7 +7,7 @@ const machineSchema = new mongoose.Schema({
     },
     status: {
         type: String,
-        enum: ['active', 'maintenance', 'failsure'],
+        enum: ['active', 'maintenance', 'failure'],
         default: 'active'
     },
     location: {
